@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Config & Variables
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "ISI_TOKEN_TELEGRAM_KAMU_DI_SINI")
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "8805019899:AAHqjc5OZ6OQfaDpEquTEWZH3EsuV8jZwS8")
 SCAN_ACTIVE = True
 
 # Load Narasi Meme
