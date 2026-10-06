@@ -1,0 +1,3909 @@
+
+🧬 MASTER DATABASE NARASI MEMECOIN
+1. 🐶 DOG / ANJING
+Ini salah satu DNA meme paling kuat. Dogecoin menjadi pemicu utama ledakan kategori dog-themed. 
+
+Narasi	Contoh terkenal
+Shiba Inu	DOGE, SHIB
+Shiba	SHIB
+Dog	DOGE
+Kabosu	DOGE
+Floki	FLOKI
+Akita	AKITA
+Corgi	CORGI
+Bulldog	Bulldog-themed
+Husky	Husky-themed
+Pug	Pug-themed
+Chihuahua	Chihuahua-themed
+Dachshund	Dachshund-themed
+Golden Retriever	Golden-themed
+Samoyed	SAMO
+Dog + meme	berbagai spin-off
+Dog + president	dog/political hybrid
+Dog + celebrity	celebrity dog
+Dog + AI	AI dog
+Dog + Solana	Solana dog
+Dog + Elon	Elon dog
+Dog + Christmas	Christmas dog
+Dog + viral photo	viral dog
+Sub-narasi yang perlu kamu simpan:
+
+DOG → SHIBA → PUPPY → PUG → CORGI → HUSKY → SAMOYED → BULLDOG → DOG + TREND
+
+🐱 2. CAT
+Kategori yang sangat besar setelah dog. PEPE, POPCAT, dan MEW ikut membantu mendorong animal meme narrative. 
+
+Narasi	Contoh
+Cat	general cat
+Orange Cat	orange cat
+Black Cat	black cat
+White Cat	white cat
+Fat Cat	fat cat
+Angry Cat	angry cat
+Crying Cat	crying cat
+Grumpy Cat	Grumpy Cat
+Keyboard Cat	keyboard cat
+Pop Cat	POPCAT
+Cat + Solana	cat/Solana
+Cat + AI	AI cat
+Cat + celebrity	celebrity cat
+Cat + politician	political cat
+Cat + viral video	viral cat
+Cat + internet meme	internet cat
+Cat + Wojak	cat/Wojak
+Contoh nyata seperti POPCAT dan MEW menjadi bagian penting dari cat meme narrative. 
+
+🐸 3. FROG / PEPE
+Ini wajib masuk database khusus.
+
+Narasi	Contoh
+Pepe	PEPE
+Rare Pepe	Rare Pepe
+Pepe + character	berbagai Pepe
+Pepe + political	political Pepe
+Pepe + Trump	Trump Pepe
+Pepe + Wojak	Pepe/Wojak
+Pepe + crypto	crypto Pepe
+Pepe + AI	AI Pepe
+Pepe + animal	animal Pepe
+Pepe + country	country Pepe
+Pepe + historical	historical Pepe
+Pepe + celebrity	celebrity Pepe
+PEPE sendiri berkembang menjadi kategori tersendiri karena kekuatan meme/IP-nya. 
+
+🐸 4. OTHER AMPHIBIANS
+Jangan berhenti di Pepe.
+
+Frog
+
+Toad
+
+Kermit
+
+Tree Frog
+
+Bullfrog
+
+Axolotl
+
+Salamander
+
+Newt
+
+Tadpole
+
+Frog + AI
+
+Frog + political
+
+Frog + celebrity
+
+Frog + crypto
+
+🐧 5. PENGUIN
+Penguin
+
+Fat Penguin
+
+Cute Penguin
+
+Pudgy Penguin
+
+Baby Penguin
+
+Angry Penguin
+
+Penguin + crypto
+
+Penguin + Christmas
+
+Penguin + AI
+
+Penguin + political
+
+Pudgy Penguins menunjukkan bahwa IP/character meme bisa menjadi kategori tersendiri. CoinGecko juga saat ini memiliki kategori IP Meme. 
+
+🦆 6. DUCK
+Ini juga menarik karena sekarang sudah ada kategori Duck-themed.
+
+Duck
+
+Rubber Duck
+
+Donald Duck-style meme
+
+Ugly Duck
+
+Duckling
+
+Angry Duck
+
+Duck + crypto
+
+Duck + AI
+
+Duck + political
+
+Duck + celebrity
+
+Duck + viral event
+
+🐭 7. RODENT / MOUSE / RAT
+Mouse
+
+Rat
+
+Hamster
+
+Hamster meme
+
+Rat + crypto
+
+Rat + AI
+
+Rat + political
+
+Rat + celebrity
+
+Sewer Rat
+
+Lab Rat
+
+Rich Rat
+
+Crypto Rat
+
+🐹 8. HAMSTER
+Khusus karena hamster punya sejarah viral besar di internet/gaming.
+
+Hamster
+
+Hamster Kombat-style
+
+Dancing Hamster
+
+Cute Hamster
+
+Rich Hamster
+
+Crypto Hamster
+
+Hamster + AI
+
+Hamster + Solana
+
+🐵 9. MONKEY / APE
+Narasi
+Monkey
+Ape
+Gorilla
+Chimpanzee
+Orangutan
+Bonobo
+Banana + Ape
+Rich Ape
+Bored Ape
+Crypto Ape
+Wall Street Ape
+Ape + AI
+Ape + political
+Ape + celebrity
+🦍 10. GORILLA
+Bisa dipisahkan dari Monkey karena komunitas crypto sering menggunakan:
+
+Gorilla
+
+Silverback
+
+King Kong
+
+Giant Ape
+
+Gorilla + crypto
+
+Gorilla + Wall Street
+
+Gorilla + AI
+
+Gorilla + political
+
+🐸 11. VIRAL ANIMAL
+Database sebaiknya punya generic animal bucket:
+
+Frog
+
+Toad
+
+Cat
+
+Dog
+
+Rat
+
+Mouse
+
+Hamster
+
+Monkey
+
+Ape
+
+Gorilla
+
+Penguin
+
+Duck
+
+Goose
+
+Chicken
+
+Rooster
+
+Cow
+
+Bull
+
+Pig
+
+Horse
+
+Donkey
+
+Goat
+
+Sheep
+
+Rabbit
+
+Bunny
+
+Deer
+
+Bear
+
+Panda
+
+Koala
+
+Sloth
+
+Otter
+
+Beaver
+
+Raccoon
+
+Squirrel
+
+Hedgehog
+
+Elephant
+
+Rhino
+
+Hippo
+
+Giraffe
+
+Zebra
+
+Lion
+
+Tiger
+
+Leopard
+
+Cheetah
+
+Wolf
+
+Fox
+
+Snake
+
+Crocodile
+
+Alligator
+
+Turtle
+
+Shark
+
+Whale
+
+Dolphin
+
+Octopus
+
+Squid
+
+Crab
+
+Lobster
+
+Shrimp
+
+Jellyfish
+
+Fish
+
+Bird
+
+Eagle
+
+Owl
+
+Crow
+
+Chicken
+
+Turkey
+
+Flamingo
+
+Parrot
+
+🦅 12. PREDATOR / DANGEROUS ANIMAL
+Wolf
+
+Tiger
+
+Lion
+
+Shark
+
+Crocodile
+
+Snake
+
+Eagle
+
+Bear
+
+Gorilla
+
+Dragon
+
+Scorpion
+
+Spider
+
+Black Panther
+
+Cheetah
+
+🐍 13. SNAKE
+Snake
+
+Cobra
+
+Python
+
+Anaconda
+
+Viper
+
+Rattlesnake
+
+Snake + Trump
+
+Snake + Bitcoin
+
+Snake + AI
+
+Snake + Solana
+
+Snake + meme
+
+🐻 14. BEAR
+Ini bisa memiliki dua makna, sehingga bagus untuk database:
+
+Animal
+
+Bear
+
+Polar Bear
+
+Brown Bear
+
+Panda
+
+Grizzly
+
+Crypto market
+
+Bear Market
+
+Bearish
+
+Bear Hunter
+
+Bear Killer
+
+Bear Trap
+
+Fuck Bear
+
+Bear vs Bull
+
+🐂 15. BULL
+Sama seperti Bear:
+
+Bull
+
+Bull Market
+
+Bullish
+
+Bull Run
+
+Bull Trap
+
+Bull Fighter
+
+Bull vs Bear
+
+Bitcoin Bull
+
+Wall Street Bull
+
+Charging Bull
+
+🐸 16. MEME CHARACTER
+Ini kategori super penting.
+
+Pepe
+
+Wojak
+
+Chad
+
+GigaChad
+
+NPC
+
+Troll
+
+Trollface
+
+Doge
+
+Smurf
+
+SpongeBob-style
+
+Patrick-style
+
+Shrek-style
+
+Homer-style
+
+Bart-style
+
+Pikachu-style
+
+Minion-style
+
+Mario-style
+
+Sonic-style
+
+Among Us-style
+
+Rick-style
+
+Morty-style
+
+Catatan: untuk database, bedakan meme_character dengan IP/copyright character.
+
+🗿 17. WOJAK
+Wajib dibuat kategori sendiri.
+
+Wojak
+
+Feels Guy
+
+Doomer
+
+Bloomer
+
+Zoomer
+
+Soyjak
+
+Chad
+
+GigaChad
+
+NPC
+
+Normie
+
+TradFi Wojak
+
+Crypto Wojak
+
+Trader Wojak
+
+Bitcoin Wojak
+
+Bull Wojak
+
+Bear Wojak
+
+Rich Wojak
+
+Poor Wojak
+
+Crying Wojak
+
+Pepe + Wojak
+
+CoinGecko juga secara eksplisit memasukkan Wojak-Themed sebagai kategori meme. 
+
+🗿 18. CHAD
+Chad
+
+GigaChad
+
+Sigma
+
+Alpha
+
+Gigachad + crypto
+
+Chad + Bitcoin
+
+Chad + Solana
+
+Chad + AI
+
+Chad + Trump
+
+Chad + Elon
+
+💀 19. DOOMER / DEGEN
+Doomer
+
+Degen
+
+Degen Trader
+
+Broke
+
+Recession
+
+Rugged
+
+Bagholder
+
+Exit Liquidity
+
+Jeet
+
+Jeets
+
+Paper Hands
+
+Diamond Hands
+
+Hands
+
+NGMI
+
+WAGMI
+
+LFG
+
+GM
+
+GN
+
+Ser
+
+Fren
+
+Anon
+
+💩 20. FART / TOILET HUMOR
+Ini justru salah satu narasi yang sangat menarik.
+
+FARTCOIN membuktikan bahwa meme absurd + AI/internet culture bisa menjadi narrative tersendiri. CoinGecko juga memasukkan FARTCOIN dalam AI Meme category. 
+
+Database:
+
+Fart
+
+Fartcoin
+
+Shit
+
+Shitcoin
+
+Poop
+
+Poo
+
+Toilet
+
+Diarrhea
+
+Gas
+
+Burp
+
+Pee
+
+Urine
+
+Vomit
+
+Butt
+
+Ass
+
+Dick
+
+Balls
+
+Cum
+
+Crap
+
+Stink
+
+Smelly
+
+Garbage
+
+Trash
+
+🍌 21. FOOD MEME
+Banana
+
+Apple
+
+Orange
+
+Lemon
+
+Lime
+
+Watermelon
+
+Grape
+
+Strawberry
+
+Blueberry
+
+Cherry
+
+Peach
+
+Pineapple
+
+Coconut
+
+Mango
+
+Avocado
+
+Potato
+
+Tomato
+
+Corn
+
+Carrot
+
+Onion
+
+Garlic
+
+Mushroom
+
+Rice
+
+Bread
+
+Burger
+
+Pizza
+
+Hotdog
+
+Taco
+
+Sushi
+
+Noodle
+
+Donut
+
+Cookie
+
+Cake
+
+Ice Cream
+
+Candy
+
+Chocolate
+
+🍔 22. FAST FOOD
+McDonald's
+
+Burger
+
+Big Mac
+
+KFC-style
+
+Chicken
+
+Pizza
+
+Taco
+
+Subway-style
+
+Starbucks-style
+
+Donut
+
+Fries
+
+Nuggets
+
+Untuk database sebaiknya tandai:
+
+brand_based = true
+
+karena berbeda dengan generic food meme.
+
+🥤 23. MINUMAN
+Coke
+
+Pepsi
+
+Cola
+
+Coffee
+
+Energy Drink
+
+Red Bull
+
+Monster
+
+Water
+
+Milk
+
+Juice
+
+Beer
+
+Champagne
+
+Wine
+
+Tequila
+
+🤖 24. AI
+Ini salah satu bucket terbesar untuk database modern.
+
+CoinGecko saat ini memang memiliki kategori AI Meme, dan narasi AI menjadi salah satu narrative crypto terbesar. 
+
+AI Generic
+AI
+
+Artificial Intelligence
+
+AGI
+
+ASI
+
+Machine Learning
+
+Deep Learning
+
+Neural Network
+
+LLM
+
+Chatbot
+
+Robot
+
+Android
+
+Cyborg
+
+Singularity
+
+Superintelligence
+
+AI Agent
+AI Agent
+
+Autonomous Agent
+
+Trading Agent
+
+DeFi Agent
+
+Social Agent
+
+AI Influencer
+
+AI Trader
+
+AI Companion
+
+AI Girlfriend
+
+AI Boyfriend
+
+AI Assistant
+
+AI + Meme
+AI Dog
+
+AI Cat
+
+AI Frog
+
+AI Pepe
+
+AI Wojak
+
+AI Chad
+
+AI Robot
+
+AI President
+
+AI Celebrity
+
+AI Trader
+
+🧠 25. AI BRAIN / INTELLIGENCE
+Brain
+
+Big Brain
+
+Galaxy Brain
+
+IQ
+
+Genius
+
+Smart
+
+Dumb AI
+
+Stupid AI
+
+Brainrot AI
+
+AI God
+
+AI Overlord
+
+AI King
+
+AI CEO
+
+🤖 26. ROBOT
+Robot
+
+Humanoid
+
+Android
+
+Terminator-style
+
+Robot Dog
+
+Robot Cat
+
+Robot Monkey
+
+Robot President
+
+Robot Trader
+
+Robot CEO
+
+🧑‍💻 27. TECH / SOFTWARE
+Ini yang kamu maksud tools.
+
+Terminal
+
+Command Line
+
+Keyboard
+
+Mouse
+
+Cursor
+
+Browser
+
+Chrome
+
+Firefox
+
+Safari
+
+Windows
+
+Linux
+
+Mac
+
+iPhone
+
+Android
+
+Calculator
+
+Notepad
+
+Excel
+
+Word
+
+PowerPoint
+
+PDF
+
+QR
+
+WiFi
+
+Bluetooth
+
+USB
+
+API
+
+Database
+
+Server
+
+Cloud
+
+Firewall
+
+VPN
+
+CAPTCHA
+
+404
+
+Error
+
+Bug
+
+Malware
+
+Virus
+
+Cookie
+
+Cache
+
+RAM
+
+CPU
+
+GPU
+
+💻 28. PROGRAMMING MEME
+Code
+
+Coder
+
+Programmer
+
+Developer
+
+Hacker
+
+Bug
+
+Debug
+
+Git
+
+GitHub
+
+Pull Request
+
+Merge
+
+Fork
+
+Stack Overflow
+
+npm
+
+Python
+
+JavaScript
+
+Rust
+
+C++
+
+Solidity
+
+Smart Contract
+
+Gas
+
+Deploy
+
+Compile
+
+Error 404
+
+500 Error
+
+🧰 29. TOOLS / OBJECT MEME
+Ini bucket yang menurutku wajib banget kalau kamu ingin menangkap meme coin viral secara luas.
+
+Household
+Hammer
+
+Screwdriver
+
+Drill
+
+Saw
+
+Knife
+
+Fork
+
+Spoon
+
+Plate
+
+Cup
+
+Bottle
+
+Bucket
+
+Chair
+
+Table
+
+Door
+
+Window
+
+Bed
+
+Toilet
+
+Mirror
+
+Lamp
+
+Fan
+
+Fridge
+
+Washing Machine
+
+Vacuum
+
+Office
+Pen
+
+Pencil
+
+Eraser
+
+Stapler
+
+Paper
+
+Printer
+
+Calculator
+
+Keyboard
+
+Mouse
+
+Monitor
+
+Desk
+
+Construction
+Hammer
+
+Nail
+
+Brick
+
+Cement
+
+Concrete
+
+Crane
+
+Bulldozer
+
+Excavator
+
+Tractor
+
+🚗 30. VEHICLE
+Car
+
+Tesla
+
+Ferrari
+
+Lamborghini
+
+Porsche
+
+BMW
+
+Mercedes
+
+Toyota
+
+Honda
+
+Motorcycle
+
+Scooter
+
+Bicycle
+
+Truck
+
+Bus
+
+Train
+
+Subway
+
+Airplane
+
+Helicopter
+
+Rocket
+
+Spaceship
+
+UFO
+
+🚀 31. SPACE
+Moon
+
+Mars
+
+Jupiter
+
+Saturn
+
+Venus
+
+Earth
+
+Sun
+
+Star
+
+Black Hole
+
+Galaxy
+
+Universe
+
+Alien
+
+UFO
+
+Astronaut
+
+Rocket
+
+SpaceX-style
+
+Moon Mission
+
+Mars Mission
+
+👽 32. ALIEN
+Alien
+
+Grey Alien
+
+UFO
+
+Extraterrestrial
+
+Area 51
+
+Alien Invasion
+
+Alien + AI
+
+Alien + Trump
+
+Alien + Elon
+
+Alien + crypto
+
+🧑‍🚀 33. ASTRONAUT
+Astronaut
+
+Space Man
+
+Moon Man
+
+Mars Man
+
+Rocket Man
+
+Crypto Astronaut
+
+Bitcoin Astronaut
+
+🇺🇸 34. POLITICAL MEME
+Ini salah satu narrative terbesar setelah election-related meme boom. CoinGecko mencatat political-themed sebagai kategori besar, dengan TRUMP/BODEN sebagai contoh penting. 
+
+President
+Donald Trump
+
+Joe Biden
+
+Barack Obama
+
+Bill Clinton
+
+George Bush
+
+George Washington
+
+Abraham Lincoln
+
+JFK
+
+Ronald Reagan
+
+Political figure
+Kamala Harris
+
+Hillary Clinton
+
+Bernie Sanders
+
+Elon Musk (political/tech hybrid)
+
+RFK
+
+JD Vance
+
+Gavin Newsom
+
+Alexandria Ocasio-Cortez
+
+Political meme
+MAGA
+
+America
+
+USA
+
+Make America Great Again
+
+Election
+
+President
+
+White House
+
+Oval Office
+
+Democrat
+
+Republican
+
+Red
+
+Blue
+
+Liberty
+
+Freedom
+
+Patriot
+
+Constitution
+
+Government
+
+CIA
+
+FBI
+
+SEC
+
+Federal Reserve
+
+🦅 35. TRUMP-SPECIFIC
+Karena Trump memiliki ecosystem sendiri.
+
+Trump
+
+MAGA
+
+MAGA Hat
+
+Trump Dog
+
+Trump Cat
+
+Trump Frog
+
+Trump AI
+
+Trump Coin
+
+Trump Family
+
+Melania
+
+Barron
+
+Trump meme
+
+Trump election
+
+Trump America
+
+Trump tariff
+
+Trump Bitcoin
+
+Trump crypto
+
+Trump DeFi
+
+Penting: pisahkan:
+
+Political → Trump → Trump official
+
+dari
+
+Political → Trump → unofficial parody
+
+Karena token yang menggunakan nama tokoh tidak selalu memiliki hubungan resmi dengan tokoh tersebut. CoinGecko secara eksplisit memperingatkan bahwa celebrity token bisa dibuat tanpa keterlibatan figur yang namanya digunakan. 
+
+👨‍💼 36. ELON MUSK
+Elon adalah kategori tersendiri.
+
+CoinGecko bahkan memasukkan Elon Musk-Inspired sebagai kategori meme. 
+
+Database:
+
+Elon
+
+Elon Musk
+
+SpaceX
+
+Tesla
+
+X
+
+Twitter
+
+DOGE
+
+Mars
+
+Neuralink
+
+xAI
+
+Grok
+
+Robot
+
+Optimus
+
+Cybertruck
+
+Starship
+
+Meme Lord
+
+Technoking
+
+Elon + Dog
+
+Elon + Cat
+
+Elon + AI
+
+Elon + Mars
+
+Elon + Trump
+
+🧠 37. CRYPTO FIGURE
+Nah ini bagian yang kamu minta: nama terkenal di dunia crypto.
+
+Founders / personalities
+Satoshi Nakamoto
+
+Vitalik Buterin
+
+Changpeng Zhao / CZ
+
+Brian Armstrong
+
+Michael Saylor
+
+Justin Sun
+
+Do Kwon
+
+Sam Bankman-Fried / SBF
+
+Arthur Hayes
+
+Anatoly Yakovenko
+
+Hayden Adams
+
+Jesse Powell
+
+Gavin Wood
+
+Charles Hoskinson
+
+Jack Dorsey
+
+Barry Silbert
+
+Cameron Winklevoss
+
+Tyler Winklevoss
+
+Richard Heart
+
+Roger Ver
+
+Andreas Antonopoulos
+
+Gary Gensler
+
+Cathie Wood
+
+Crypto-specific meme variants
+Satoshi Dog
+
+Satoshi Cat
+
+Vitalik Dog
+
+Vitalik Cat
+
+CZ Dog
+
+CZ Cat
+
+Saylor Bitcoin
+
+Saylor MicroStrategy
+
+Crypto CEO
+
+Bitcoin CEO
+
+Ethereum God
+
+Solana Founder
+
+Crypto Jesus
+
+Crypto King
+
+₿ 38. BITCOIN MEME
+Bitcoin
+
+BTC
+
+Orange
+
+Orange Coin
+
+Laser Eyes
+
+Bitcoin Maximalist
+
+Maxi
+
+Satoshi
+
+Nakamoto
+
+₿
+
+Bitcoin Pizza
+
+Bitcoin Whale
+
+Bitcoin Frog
+
+Bitcoin Dog
+
+Bitcoin Cat
+
+Bitcoin Bear
+
+Bitcoin Bull
+
+Bitcoin Moon
+
+Bitcoin Lambo
+
+♦️ 39. ETHEREUM MEME
+Ethereum
+
+ETH
+
+Vitalik
+
+Ether
+
+Gas
+
+Gas Fee
+
+ETH Maxi
+
+ETH Killer
+
+Ethereum Dog
+
+Ethereum Cat
+
+Ethereum Frog
+
+Ethereum Chad
+
+🟣 40. SOLANA MEME
+Solana sendiri bukan meme narrative, tetapi chain ecosystem sangat penting untuk database.
+
+Solana
+
+SOL
+
+Solana Dog
+
+Solana Cat
+
+Solana Frog
+
+Solana AI
+
+Solana Political
+
+Solana Celebrity
+
+Solana DeGen
+
+Pump.fun
+
+Raydium
+
+Jupiter
+
+Bonk
+
+WIF
+
+POPCAT
+
+MEW
+
+CoinGecko mencatat Solana meme coins sebagai salah satu narrative utama crypto. 
+
+🟡 41. BNB / BINANCE MEME
+Binance
+
+BNB
+
+CZ
+
+BNB Dog
+
+BNB Cat
+
+BNB Frog
+
+Binance logo meme
+
+SAFU
+
+4 meme
+
+Four.meme
+
+BSC meme
+
+🟦 42. BASE MEME
+Base
+
+Coinbase
+
+Brian Armstrong
+
+Base Dog
+
+Base Cat
+
+Base Frog
+
+Base Chad
+
+Base AI
+
+Base political
+
+Base meme coins juga merupakan salah satu narrative yang cukup besar. 
+
+📈 43. TRADING MEME
+Ini menurutku database emas.
+
+Bull
+
+Bear
+
+Bullish
+
+Bearish
+
+Long
+
+Short
+
+Leverage
+
+100x
+
+1000x
+
+Liquidation
+
+Reversal
+
+Breakout
+
+Dump
+
+Pump
+
+Moon
+
+Dip
+
+Buy The Dip
+
+ATH
+
+ATL
+
+Bottom
+
+Top
+
+Bagholder
+
+Exit Liquidity
+
+Stop Loss
+
+Take Profit
+
+Margin
+
+Funding
+
+Open Interest
+
+Whale
+
+Smart Money
+
+Dumb Money
+
+Insider
+
+Paper Hands
+
+Diamond Hands
+
+Weak Hands
+
+Strong Hands
+
+🐋 44. WHALE
+Whale
+
+Blue Whale
+
+Crypto Whale
+
+Bitcoin Whale
+
+Whale Alert
+
+Whale Wallet
+
+Whale Hunter
+
+Whale vs Shrimp
+
+Shrimp
+
+Fish
+
+Shark
+
+Mega Whale
+
+🦐 45. SHRIMP / SMALL INVESTOR
+Shrimp
+
+Fish
+
+Small Fish
+
+Retail
+
+Retail Investor
+
+Normie
+
+Poor
+
+Broke
+
+$10
+
+$100
+
+$1000
+
+Exit Liquidity
+
+💰 46. MONEY
+Money
+
+Cash
+
+Dollar
+
+USD
+
+Million
+
+Billion
+
+Trillion
+
+Rich
+
+Poor
+
+Millionaire
+
+Billionaire
+
+Money Printer
+
+Money Machine
+
+Infinite Money
+
+Free Money
+
+Fake Money
+
+Monopoly Money
+
+🖨️ 47. MONEY PRINTER
+Sangat bagus untuk narrative macro.
+
+Money Printer
+
+Printer Go Brrr
+
+Brrrr
+
+QE
+
+Quantitative Easing
+
+Inflation
+
+Hyperinflation
+
+CPI
+
+Interest Rate
+
+Fed
+
+Powell
+
+Rate Cut
+
+Rate Hike
+
+Liquidity
+
+Dollar
+
+DXY
+
+🏦 48. FED / JEROME POWELL
+Powell
+
+Jerome Powell
+
+Federal Reserve
+
+Fed
+
+FOMC
+
+Rate Cut
+
+Rate Hike
+
+Fed Pivot
+
+Money Printer
+
+QE
+
+QT
+
+Interest Rate
+
+Inflation
+
+CPI
+
+PCE
+
+📊 49. WALL STREET
+CoinGecko juga mencatat Wall Street Bets-themed sebagai salah satu meme category. 
+
+Wall Street
+
+WSB
+
+GameStop
+
+AMC
+
+Roaring Kitty
+
+Short Squeeze
+
+Hedge Fund
+
+Hedge Fund Manager
+
+Retail
+
+Ape
+
+Diamond Hands
+
+Short
+
+Short Squeeze
+
+Gamma Squeeze
+
+Naked Short
+
+Stonks
+
+Stocks
+
+Stock Market
+
+📈 50. STONKS
+Stonks
+
+Stocks
+
+Stock Market
+
+Green Candle
+
+Red Candle
+
+Candle
+
+Chart
+
+TradingView
+
+Candlestick
+
+Bull Market
+
+Bear Market
+
+Pump
+
+Dump
+
+Buy
+
+Sell
+
+🧑‍💼 51. CEO / BUSINESS
+CEO
+
+Boss
+
+Founder
+
+Billionaire
+
+Entrepreneur
+
+Startup
+
+Company
+
+Corporation
+
+Manager
+
+Employee
+
+Intern
+
+HR
+
+Salary
+
+9-5
+
+Quit Job
+
+Retire
+
+Financial Freedom
+
+Work From Home
+
+Corporate Slave
+
+👔 52. CORPORATE / 9-5
+9to5
+
+Office Worker
+
+Employee
+
+Wage Slave
+
+Boss
+
+Manager
+
+Intern
+
+Monday
+
+Friday
+
+Weekend
+
+Salary
+
+Payday
+
+Rent
+
+Mortgage
+
+Debt
+
+Recession
+
+🧑‍🎤 53. CELEBRITY
+Celebrity coins memanfaatkan attention dari figur terkenal; CoinGecko mencatat contoh seperti MOTHER/Iggy Azalea, JENNER/Caitlyn Jenner dan DAVIDO. 
+
+Music
+Taylor Swift
+
+Kanye West
+
+Drake
+
+Rihanna
+
+Beyoncé
+
+Justin Bieber
+
+Eminem
+
+Snoop Dogg
+
+Iggy Azalea
+
+Travis Scott
+
+The Weeknd
+
+Billie Eilish
+
+Ariana Grande
+
+Lady Gaga
+
+Britney Spears
+
+Justin Timberlake
+
+Nicki Minaj
+
+Cardi B
+
+Davido
+
+Actors
+Dwayne Johnson
+
+Will Smith
+
+Leonardo DiCaprio
+
+Johnny Depp
+
+Keanu Reeves
+
+Tom Cruise
+
+Arnold Schwarzenegger
+
+Ryan Reynolds
+
+MrBeast
+
+Internet
+MrBeast
+
+Logan Paul
+
+Jake Paul
+
+Andrew Tate
+
+KSI
+
+Kai Cenat
+
+IShowSpeed
+
+PewDiePie
+
+Ninja
+
+Pokimane
+
+⚽ 54. ATHLETE MEME
+Cristiano Ronaldo
+
+Messi
+
+Neymar
+
+Mbappe
+
+LeBron James
+
+Michael Jordan
+
+Kobe Bryant
+
+Stephen Curry
+
+Conor McGregor
+
+Mike Tyson
+
+Floyd Mayweather
+
+Muhammad Ali
+
+Khabib
+
+Israel Adesanya
+
+📱 55. INTERNET / SOCIAL MEDIA
+TikTok
+
+Instagram
+
+Twitter/X
+
+Facebook
+
+YouTube
+
+Reddit
+
+Discord
+
+Telegram
+
+Twitch
+
+4chan
+
+Reddit
+
+Meme Page
+
+Influencer
+
+Viral
+
+Trending
+
+FYP
+
+Ratio
+
+Like
+
+Subscribe
+
+Follow
+
+Verified
+
+Blue Check
+
+TikTok-inspired meme coins bahkan menjadi kategori tersendiri dalam data CoinGecko. 
+
+🔥 56. VIRAL INTERNET PHRASES
+Ini wajib kalau database-mu untuk mencari potensi meme.
+
+WAGMI
+
+NGMI
+
+LFG
+
+GM
+
+GN
+
+Fren
+
+Ser
+
+Wen
+
+Moon
+
+Send It
+
+Aped
+
+Ape In
+
+Degen
+
+Rug
+
+Rugged
+
+Rug Pull
+
+Diamond Hands
+
+Paper Hands
+
+Buy The Dip
+
+To The Moon
+
+100x
+
+1000x
+
+1M
+
+Billion
+
+Trillion
+
+Make It
+
+We're So Back
+
+It's Over
+
+Never Back
+
+Fuck It
+
+YOLO
+
+FOMO
+
+FUD
+
+🧠 57. BRAINROT
+Ini semakin penting sebagai culture narrative, bukan sekadar animal.
+
+Brainrot
+
+Skibidi
+
+Sigma
+
+Ohio
+
+Rizz
+
+Gyatt
+
+Fanum Tax
+
+NPC
+
+Aura
+
+Mog
+
+Looksmaxxing
+
+Grimace
+
+Kai Cenat
+
+TikTok meme
+
+Gen Alpha
+
+Gen Z
+
+💀 58. DARK / DEATH MEME
+Death
+
+Grim Reaper
+
+Skeleton
+
+Skull
+
+Ghost
+
+Zombie
+
+Vampire
+
+Demon
+
+Devil
+
+Hell
+
+Satan
+
+Apocalypse
+
+Doomsday
+
+Reaper
+
+Death + crypto
+
+Death + AI
+
+👻 59. HORROR
+Ghost
+
+Zombie
+
+Vampire
+
+Werewolf
+
+Demon
+
+Witch
+
+Skeleton
+
+Haunted
+
+Monster
+
+Horror
+
+Halloween
+
+Dracula
+
+Frankenstein
+
+🧙 60. FANTASY
+Wizard
+
+Witch
+
+Dragon
+
+Knight
+
+King
+
+Queen
+
+Princess
+
+Elf
+
+Orc
+
+Goblin
+
+Troll
+
+Mage
+
+Wizard + AI
+
+Dragon + crypto
+
+Goblin + crypto
+
+🧌 61. GOBLIN / TROLL
+Goblin
+
+Troll
+
+Gremlin
+
+Monster
+
+Degen Goblin
+
+Crypto Goblin
+
+AI Goblin
+
+Goblin + Wojak
+
+Troll + Pepe
+
+👑 62. KING / QUEEN
+King
+
+Queen
+
+Emperor
+
+Empress
+
+Prince
+
+Princess
+
+Lord
+
+God
+
+Godfather
+
+Crypto King
+
+Meme King
+
+AI King
+
+Bitcoin King
+
+🛸 63. CONSPIRACY
+Ini sangat cocok untuk memecoin viral.
+
+Illuminati
+
+CIA
+
+FBI
+
+Area 51
+
+Aliens
+
+UFO
+
+Deep State
+
+Secret Society
+
+Simulation
+
+Matrix
+
+Government
+
+Central Bank
+
+Globalist
+
+Moon Landing
+
+Flat Earth
+
+Time Travel
+
+Ancient Civilization
+
+🔮 64. FUTURE / TIME
+Future
+
+Time Machine
+
+Time Traveler
+
+2030
+
+2040
+
+2050
+
+Future AI
+
+Future Money
+
+Future Internet
+
+Singularity
+
+Time Travel
+
+Prediction
+
+Prophecy
+
+🌎 65. COUNTRY / NATIONALITY
+USA
+
+China
+
+Japan
+
+Korea
+
+Indonesia
+
+India
+
+UK
+
+Russia
+
+Germany
+
+France
+
+Italy
+
+Brazil
+
+Argentina
+
+Mexico
+
+Canada
+
+Australia
+
+Nigeria
+
+Turkey
+
+Dubai
+
+UAE
+
+Lalu kombinasikan:
+
+COUNTRY + ANIMAL
+
+COUNTRY + POLITICIAN
+
+COUNTRY + AI
+
+COUNTRY + FOOD
+
+COUNTRY + SPORT
+
+🇨🇳 66. CHINESE MEME
+CoinGecko juga mengklasifikasikan Chinese Meme sebagai kategori tersendiri. 
+
+China
+
+Chinese
+
+Panda
+
+Dragon
+
+Red
+
+Yuan
+
+Xi
+
+Great Wall
+
+Chinese AI
+
+Chinese crypto
+
+Chinese New Year
+
+Red Envelope
+
+Fortune
+
+🎎 67. JAPAN / ANIME
+Anime
+
+Manga
+
+Naruto
+
+One Piece
+
+Dragon Ball
+
+Pokémon
+
+Pikachu
+
+Gundam
+
+Samurai
+
+Ninja
+
+Shogun
+
+Waifu
+
+Anime Girl
+
+Anime Boy
+
+Senpai
+
+Kawaii
+
+Untuk database: pisahkan anime_generic dan copyright_IP.
+
+🇰🇷 68. KOREAN
+K-pop
+
+BTS
+
+Blackpink
+
+Korean
+
+K-drama
+
+Squid Game
+
+Kimchi
+
+Seoul
+
+Gangnam
+
+Korean AI
+
+Korean meme
+
+🎮 69. GAMING
+Gamer
+
+Game
+
+NPC
+
+Boss
+
+Final Boss
+
+Level Up
+
+XP
+
+HP
+
+Mana
+
+Loot
+
+Loot Box
+
+Respawn
+
+Game Over
+
+GG
+
+GGWP
+
+Noob
+
+Pro
+
+Speedrun
+
+AFK
+
+Lag
+
+Ping
+
+Server
+
+🎮 70. GAME CHARACTER ARCHETYPE
+Mario
+
+Sonic
+
+Pikachu
+
+Link
+
+Kirby
+
+Minecraft
+
+Roblox
+
+Fortnite
+
+GTA
+
+Among Us
+
+Minecraft Creeper
+
+Pac-Man
+
+Tetris
+
+Doom
+
+Skyrim
+
+🧪 71. SCIENCE
+Atom
+
+Electron
+
+Proton
+
+Neutron
+
+Quantum
+
+Quantum AI
+
+Physics
+
+Chemistry
+
+Biology
+
+DNA
+
+Gene
+
+Virus
+
+Bacteria
+
+Molecule
+
+Gravity
+
+Energy
+
+Fusion
+
+Nuclear
+
+Antimatter
+
+☢️ 72. NUCLEAR / APOCALYPSE
+Nuclear
+
+Atomic
+
+Radiation
+
+Fallout
+
+Bomb
+
+Mushroom Cloud
+
+Nuclear Winter
+
+Apocalypse
+
+Doomsday
+
+Survival
+
+End Game
+
+🧬 73. BIOLOGY
+DNA
+
+Gene
+
+Cell
+
+Virus
+
+Bacteria
+
+Protein
+
+Mutation
+
+Evolution
+
+Clone
+
+Genome
+
+CRISPR
+
+Cancer meme
+
+Bio AI
+
+🌐 74. INTERNET INFRASTRUCTURE
+Internet
+
+Web
+
+Web3
+
+Server
+
+Cloud
+
+DNS
+
+Domain
+
+IP
+
+HTTP
+
+HTTPS
+
+404
+
+500
+
+Ping
+
+Bandwidth
+
+Router
+
+WiFi
+
+VPN
+
+Firewall
+
+CAPTCHA
+
+💳 75. FINANCE
+Bank
+
+Banker
+
+Central Bank
+
+Credit
+
+Debt
+
+Loan
+
+Mortgage
+
+Interest
+
+APR
+
+APY
+
+Yield
+
+Inflation
+
+Deflation
+
+Recession
+
+Depression
+
+Liquidity
+
+Money Printer
+
+Cash
+
+Gold
+
+Silver
+
+🥇 76. GOLD / PRECIOUS METALS
+Gold
+
+Silver
+
+Platinum
+
+Diamond
+
+Emerald
+
+Ruby
+
+Sapphire
+
+Bitcoin Gold
+
+Digital Gold
+
+Gold vs Bitcoin
+
+Gold Bug
+
+Silver Stack
+
+💎 77. DIAMOND
+Diamond
+
+Diamond Hands
+
+Diamond Pepe
+
+Diamond Dog
+
+Diamond Bull
+
+Diamond Whale
+
+Diamond + Bitcoin
+
+💎 78. LUXURY
+Lamborghini
+
+Ferrari
+
+Porsche
+
+Rolex
+
+Gucci
+
+Louis Vuitton
+
+Prada
+
+Supreme
+
+Yacht
+
+Private Jet
+
+Mansion
+
+Diamond
+
+Gold
+
+Billionaire
+
+🏝️ 79. RICH LIFE
+Lambo
+
+Yacht
+
+Mansion
+
+Private Jet
+
+Dubai
+
+Monaco
+
+Island
+
+Millionaire
+
+Billionaire
+
+Financial Freedom
+
+Retire
+
+Early Retirement
+
+🏴‍☠️ 80. PIRATE
+Pirate
+
+Captain
+
+Treasure
+
+Gold
+
+Skull
+
+Ship
+
+Pirate King
+
+Treasure Map
+
+Crypto Pirate
+
+Meme Pirate
+
+🧟 81. ZOMBIE
+Zombie
+
+Dead
+
+Resurrection
+
+Reborn
+
+Dead Coin
+
+Zombie Coin
+
+Zombie Market
+
+Zombie Bull
+
+Zombie Bear
+
+🌱 82. NATURE
+Tree
+
+Plant
+
+Flower
+
+Mushroom
+
+Grass
+
+Leaf
+
+Forest
+
+Mountain
+
+River
+
+Ocean
+
+Sun
+
+Moon
+
+Rain
+
+Cloud
+
+Storm
+
+Volcano
+
+Earth
+
+🌋 83. NATURAL DISASTER
+Volcano
+
+Earthquake
+
+Tsunami
+
+Hurricane
+
+Tornado
+
+Storm
+
+Flood
+
+Fire
+
+Lightning
+
+Thunder
+
+Avalanche
+
+🔥 84. FIRE
+Fire
+
+Flame
+
+Burning
+
+Burn
+
+Inferno
+
+Phoenix
+
+Fire Dog
+
+Fire Cat
+
+Fire Pepe
+
+Fire AI
+
+Fire + crypto
+
+❄️ 85. ICE
+Ice
+
+Snow
+
+Winter
+
+Blizzard
+
+Iceberg
+
+Frozen
+
+Snowman
+
+Ice King
+
+Ice Dog
+
+Ice Cat
+
+🌞 86. SUN / MOON
+Sun
+Sun
+
+Solar
+
+Sunshine
+
+Sun God
+
+Solar Energy
+
+Moon
+Moon
+
+Moonshot
+
+Moon Boy
+
+Moon Mission
+
+To The Moon
+
+Moon Dog
+
+Moon Cat
+
+🧿 87. RELIGION / MYTHOLOGY
+Lebih sensitif, tapi sebagai narasi database tetap bisa dikategorikan:
+
+Zeus
+
+Thor
+
+Odin
+
+Loki
+
+Hercules
+
+Poseidon
+
+Athena
+
+Anubis
+
+Ra
+
+Horus
+
+Shiva
+
+Buddha
+
+Angel
+
+Demon
+
+God
+
+Devil
+
+Heaven
+
+Hell
+
+Valhalla
+
+Olympus
+
+⚔️ 88. WARRIOR
+Warrior
+
+Samurai
+
+Ninja
+
+Knight
+
+Viking
+
+Spartan
+
+Soldier
+
+General
+
+Commander
+
+Assassin
+
+Mercenary
+
+Fighter
+
+🧑‍🔬 89. PROFESSIONS
+Ini underrated untuk database.
+
+Doctor
+
+Nurse
+
+Scientist
+
+Engineer
+
+Programmer
+
+Trader
+
+Investor
+
+Banker
+
+Lawyer
+
+Police
+
+Firefighter
+
+Farmer
+
+Fisherman
+
+Chef
+
+Teacher
+
+Student
+
+Mechanic
+
+Pilot
+
+Astronaut
+
+CEO
+
+Intern
+
+Influencer
+
+👨‍🍳 90. CHEF / FOOD CHARACTER
+Chef
+
+Cook
+
+Gordon Ramsay-style
+
+Burger Chef
+
+Pizza Chef
+
+Crypto Chef
+
+Meme Chef
+
+AI Chef
+
+🚓 91. POLICE / LAW
+Police
+
+FBI
+
+CIA
+
+Sheriff
+
+Cop
+
+Detective
+
+Prison
+
+Jail
+
+Criminal
+
+Lawyer
+
+Judge
+
+Court
+
+SEC
+
+IRS
+
+🔐 92. CRYPTO TECHNOLOGY
+Blockchain
+
+Wallet
+
+Private Key
+
+Seed Phrase
+
+Ledger
+
+Hardware Wallet
+
+Cold Wallet
+
+Hot Wallet
+
+Gas
+
+Transaction
+
+Block
+
+Miner
+
+Validator
+
+Node
+
+Smart Contract
+
+DeFi
+
+DEX
+
+CEX
+
+Bridge
+
+Oracle
+
+⛏️ 93. MINING
+Miner
+
+Mining
+
+Bitcoin Miner
+
+Gold Miner
+
+Pickaxe
+
+Mining Rig
+
+GPU
+
+Hashrate
+
+Block
+
+Proof of Work
+
+ASIC
+
+🌉 94. BRIDGE / NETWORK
+Bridge
+
+Cross-chain
+
+Multichain
+
+Interoperability
+
+Chain
+
+Network
+
+Node
+
+Validator
+
+RPC
+
+Mainnet
+
+Testnet
+
+🪙 95. MEMECOIN META ITSELF
+Ini sangat penting.
+
+Memecoin
+
+Shitcoin
+
+Scamcoin
+
+Rug
+
+Rugpull
+
+Fair Launch
+
+Stealth Launch
+
+Presale
+
+Pump
+
+Dump
+
+Moon
+
+100x
+
+1000x
+
+Gem
+
+Hidden Gem
+
+Low Cap
+
+Micro Cap
+
+CTO
+
+Community Takeover
+
+Dev
+
+Based Dev
+
+Renounced
+
+Burn
+
+Liquidity
+
+LP
+
+Locked Liquidity
+
+🧑‍💻 96. PUMP.FUN / LAUNCHPAD CULTURE
+Karena launchpad sendiri bisa menjadi narrative.
+
+Pump.fun
+
+Launchpad
+
+Bonding Curve
+
+Graduation
+
+CTO
+
+Dev Wallet
+
+Sniper
+
+Bundler
+
+Bundle
+
+Insider
+
+Fresh Wallet
+
+First Buyer
+
+Smart Money
+
+Top Holder
+
+LP
+
+Migration
+
+📱 97. TELEGRAM / CT CULTURE
+CT
+
+Crypto Twitter
+
+Telegram
+
+TG
+
+Community
+
+Alpha
+
+Alpha Group
+
+Caller
+
+KOL
+
+Influencer
+
+Shill
+
+Shiller
+
+Raid
+
+Community Raid
+
+Trending
+
+Viral
+
+Meta
+
+Narrative
+
+📢 98. KOL / INFLUENCER
+KOL
+
+Crypto KOL
+
+Influencer
+
+Caller
+
+Whale
+
+Celebrity
+
+Founder
+
+Anonymous Dev
+
+Based Dev
+
+Community Leader
+
+🧪 99. EXPERIMENTAL / ABSURD
+Ini bucket yang jangan dihapus dari database.
+
+Random Word
+
+Random Object
+
+Random Animal
+
+Random Food
+
+Random Person
+
+Random Number
+
+Random Emoji
+
+Random Phrase
+
+Misspelling
+
+Typo
+
+AI-generated character
+
+AI-generated animal
+
+AI-generated meme
+
+AI-generated nonsense
+
+Brainrot
+
+Shitpost
+
+Anti-meme
+
+No utility
+
+Literally nothing
+
+"Just a coin"
+
+🔢 100. ANGKA / NOMOR
+69
+
+420
+
+666
+
+777
+
+888
+
+911
+
+1337
+
+2000
+
+2024
+
+2025
+
+2026
+
+2030
+
+404
+
+42069
+
+69420
+
+100
+
+1000
+
+1M
+
+1B
+
+1T
+
+😂 101. EMOJI MEME
+Ini juga bagus sebagai generator narasi.
+
+😂
+
+💀
+
+🤡
+
+🗿
+
+🐸
+
+🐶
+
+🐱
+
+🐸
+
+🦍
+
+🐋
+
+🚀
+
+🌕
+
+🔥
+
+💎
+
+🤑
+
+😭
+
+😎
+
+🤖
+
+👽
+
+❤️
+
+💰
+
+🪙
+
+🧩 102. HYBRID NARRATIVE
+Ini justru bagian paling penting untuk sistem database-mu.
+
+Karena token viral sering bukan:
+
+"Cat"
+
+tetapi:
+
+Cat + AI + Solana + viral event
+
+Maka buat database dengan kombinasi:
+
+Animal × AI
+AI Dog
+
+AI Cat
+
+AI Frog
+
+AI Monkey
+
+AI Penguin
+
+AI Rat
+
+AI Duck
+
+Animal × Political
+Trump Dog
+
+Trump Cat
+
+Political Frog
+
+Presidential Dog
+
+Animal × Crypto
+Bitcoin Dog
+
+Ethereum Cat
+
+Solana Frog
+
+BNB Dog
+
+Animal × Celebrity
+Elon Dog
+
+Trump Cat
+
+Celebrity Dog
+
+Meme × AI
+AI Pepe
+
+AI Wojak
+
+AI Chad
+
+AI Degen
+
+AI Fart
+
+Political × Crypto
+Trump Bitcoin
+
+Trump Ethereum
+
+Trump Solana
+
+Fed Coin
+
+Powell Coin
+
+SEC Coin
+
+Celebrity × Crypto
+Elon Coin
+
+Saylor Coin
+
+CZ Coin
+
+Vitalik Coin
+
+AI × Celebrity
+Elon AI
+
+Trump AI
+
+Satoshi AI
+
+Vitalik AI
+
+🔥 103. NARASI BERDASARKAN VIRAL EVENT
+Ini harus masuk database karena meme coin sering lahir dari event yang baru terjadi.
+
+Politik
+ELECTION → CANDIDATE → SPEECH → SCANDAL → DEBATE → POLICY
+
+Crypto
+BTC ATH → BTC CRASH → ETF → HACK → AIRDROP → LISTING → DELISTING
+
+AI
+NEW MODEL → AI AGENT → AI ROBOT → AI FAILURE → AI BREAKTHROUGH
+
+Celebrity
+CELEBRITY POST → SCANDAL → BREAKUP → NEW SONG → VIRAL VIDEO
+
+Internet
+VIRAL VIDEO → MEME → TIKTOK → X → REDDIT → COMMUNITY
+
+Market
+PUMP → DUMP → CRASH → SQUEEZE → LIQUIDATION → RECOVERY
+
+🧠 Struktur database yang aku sarankan
+Kalau ini memang mau kamu jadikan database untuk hunting meme coin, jangan cuma:
+
+Nama | Narasi
+
+Buat seperti ini:
+
+ID
+Nama Narasi
+Kategori Utama
+Subkategori
+Keyword
+Contoh Token
+Contoh Meme
+Figur Terkait
+Animal
+Celebrity
+Political
+AI
+Crypto
+Internet
+Food
+Object
+Event
+Chain
+Viral Potential
+Longevity
+First Mover
+Community Potential
+Current Trend
+Risk
+Contohnya:
+
+001
+Narrative: DOG
+Category: ANIMAL
+Subcategory: DOG
+Keywords: dog, puppy, shiba, bark
+Examples: DOGE, SHIB, WIF
+Animal: YES
+AI: NO
+Political: NO
+Celebrity: NO
+Crypto: YES
+Internet: YES
+Lalu:
+
+002
+Narrative: AI + FART
+Category: AI MEME
+Subcategory: ABSURD
+Keywords: AI, fart, shitpost, absurd
+Examples: FARTCOIN
+Animal: NO
+AI: YES
+Political: NO
+Celebrity: NO
+Crypto: YES
+Internet: YES
+🔥 Dan ada satu hal yang menurutku sangat penting
+Kalau tujuan database ini adalah mencari meme coin yang berpotensi viral, aku justru akan membaginya menjadi 5 layer:
+
+Layer 1 — Subject
+
+DOG / CAT / PEPE / TRUMP / ELON / AI / BTC / etc.
+
+Layer 2 — Meme Format
+
+Wojak / Chad / Brainrot / Fart / Shitpost / Cute / Angry / Absurd
+
+Layer 3 — Trigger
+
+Election / War / Tariff / Fed / Hack / Celebrity scandal / AI launch / viral video
+
+Layer 4 — Crypto Context
+
+Solana / Base / BSC / Ethereum / Pump.fun / DEX / Bitcoin / DeFi
+
+Layer 5 — Viral Modifier
+
+100x / CTO / Community / Celebrity endorsement / KOL / TikTok / X / Reddit / AI-generated
+
+Jadi sebuah token bisa dibaca sebagai:
+
+CAT + WOJAK + AI + SOLANA + TIKTOK
+
+atau
+
+TRUMP + POLITICAL + ELECTION + SOLANA
+
+atau
+
+FART + AI + ABSURD + CT
+
+atau
+
+DOG + ELON + TESLA + AI
